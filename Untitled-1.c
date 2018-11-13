@@ -1,5 +1,5 @@
 #include<stdio.h>
-int mzin()
+int main()
 {
     printf("Hello World!");
     return 0;
